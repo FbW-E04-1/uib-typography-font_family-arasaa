@@ -1,0 +1,20 @@
+body{
+    background-color: wheat;
+}
+
+h1, h2, h3{
+    font-family: 'Fjalla One', sans-serif;
+}
+main {
+    font-family: 'Advent Pro', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+}
+
+/* .code{
+    color: violet;
+    font-family: monospace;
+} */
+
+.code{
+    font-family: monospace;
+}
